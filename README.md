@@ -224,6 +224,7 @@ This step-by-step breakdown shows how CNNs transform raw pixels into meaningful 
 
 <br>
 <br>
+
 # For Colored Images
 # CNN for RGB (Color) Images - Complete Explanation
 
