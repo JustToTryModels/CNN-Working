@@ -222,9 +222,8 @@ Output Layer → 10 classes (Softmax)
 
 This step-by-step breakdown shows how CNNs transform raw pixels into meaningful predictions!
 
-
-
-
+<br>
+<br>
 # For Colored Images
 # CNN for RGB (Color) Images - Complete Explanation
 
